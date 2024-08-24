@@ -2,7 +2,7 @@
 
 # SCRIPT:
 
-**loadstring(game:HttpGet("https://egorikusa.space/1ad81d1fd508b9d8b412882e.lua", true))()**
+**loadstring(game:HttpGet("https://egorikusa.space/f317bd388d37d722f2a04c27.lua", true))()**
 
 copy this script and paste into injector this is an all in 1
 
